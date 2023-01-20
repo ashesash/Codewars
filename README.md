@@ -1,2 +1,3 @@
-# codewars
- working through codewars exercises
+# Codewars
+
+ working through codewars exercises in Python
